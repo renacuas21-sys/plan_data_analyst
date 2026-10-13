@@ -45,4 +45,5 @@ Los archivos del laboratorio contienen datos simulados con fines educativos. No 
 - **Unidad 0 - Diagnóstico inicial:** completada; pendiente de revisión por Francisco.
 - **Unidad 1 - Bloque 1:** revisión documental completada; cierre interno aprobado el 12 de octubre de 2026. Incidencias de calidad pendientes de validación.
 - **Unidad 1 - Bloque 2:** evaluación práctica de Excel aprobada (4 de 4 retos). Pendiente de revisión por Francisco.
-- **Unidad 1 - Bloque 3:** pendiente de inicio.
+- **Unidad 1 - Bloque 3:** tablas dinámicas, gráficos y evaluación práctica completados (4 de 4 retos). Pendiente de revisión por Francisco.
+- **Unidad 1 - Bloque 4:** en preparación.
