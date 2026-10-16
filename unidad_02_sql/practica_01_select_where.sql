@@ -43,3 +43,37 @@ FROM movies
 ORDER BY year ASC
 LIMIT 5;
 
+-- ==========================================
+-- UNIDAD 2 - BLOQUE 1
+-- Practica SQLBolt - 15 de octubre de 2026
+-- Leccion 3: LIKE y NOT LIKE
+-- Leccion 4: DISTINCT, ORDER BY, LIMIT y OFFSET
+-- Review 1: Consultas de repaso
+-- ==========================================
+
+-- Buscar peliculas cuyo titulo comienza con Toy
+SELECT title
+FROM movies
+WHERE title LIKE 'Toy%';
+
+-- Buscar peliculas cuyo titulo NO comienza con Toy
+SELECT title
+FROM movies
+WHERE title NOT LIKE 'Toy%';
+
+-- Mostrar los años sin repetirlos
+SELECT DISTINCT year
+FROM movies;
+
+-- Mostrar los años sin repetir, del más reciente al más antiguo
+SELECT DISTINCT year
+FROM movies
+ORDER BY year DESC;
+
+-- Mostrar solamente las 5 películas más recientes
+SELECT title, year
+FROM movies
+ORDER BY year DESC
+LIMIT 5;
+
+
