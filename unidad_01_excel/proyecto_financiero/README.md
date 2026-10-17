@@ -52,3 +52,30 @@ El archivo `laboratorio_ventas_data_analyst.xlsx` contiene las bases de datos, c
 
 ## Estado
 Unidad 1 preparada para revisión y retroalimentación de Francisco Delgadillo.
+
+## Unidad 1 — Resumen de avance
+
+**Estado:** cuatro bloques completados; pendiente de revisión del mentor.
+
+**Proyecto entregable:** análisis financiero de ventas de enero a septiembre de 2026, con indicadores de ingresos, costos, utilidad bruta, margen, análisis mensual, productos, regiones, clientes y dashboard.
+
+**Evaluación conceptual:** 47/50 (9.4/10), mediante cinco casos prácticos de interpretación financiera, calidad de datos, rentabilidad y criterio comercial.
+
+**Fortalezas observadas:**
+- Interpretación de resultados desde una perspectiva de negocio.
+- Identificación de inconsistencias sin alterar registros originales.
+- Capacidad para plantear investigaciones antes de recomendar decisiones.
+- Selección razonada de herramientas de análisis.
+
+**Aspectos por reforzar:**
+- Mayor autonomía al construir análisis.
+- Precisión en los indicadores financieros y comerciales.
+- Cálculo inmediato de métricas disponibles.
+- Dominio operativo de Excel, tablas dinámicas y Git.
+
+**Puntos para revisar con Francisco:**
+- Calidad y estructura del proyecto financiero.
+- Tratamiento del producto P9999, pendiente de validación.
+- Presentación del dashboard y conclusiones.
+- Nivel de autonomía esperado antes de iniciar la siguiente unidad.
+
