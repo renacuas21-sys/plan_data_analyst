@@ -117,4 +117,26 @@ FROM movimientos AS m
 INNER JOIN telefonos AS t
     ON m.id_cliente = t.id_cliente;
 
-    
+ -- ==========================================
+-- UNIDAD 2 | BLOQUE 3
+-- EVALUACION FINAL: APROBADA
+-- ==========================================
+
+-- Resultados validados:
+-- Ana: 2 movimientos, importe total 8000.
+-- Luis: 1 movimiento, importe total 7000.
+-- Pedro: 0 movimientos, importe NULL.
+--
+-- Aprendizajes:
+-- 1. INNER JOIN devuelve registros coincidentes.
+-- 2. LEFT JOIN conserva los registros de la tabla izquierda.
+-- 3. Los JOIN pueden multiplicar filas e importes.
+-- 4. COUNT(DISTINCT) permite contar movimientos unicos.
+-- 5. Agrupar movimientos antes de relacionar tablas
+--    evita duplicaciones en los importes.
+-- 6. NULL no significa lo mismo que cero.
+--
+-- Conclusion:
+-- Validar la cardinalidad y la calidad de los datos
+-- antes de presentar resultados financieros.
+
