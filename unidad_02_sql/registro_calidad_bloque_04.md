@@ -138,3 +138,44 @@ Validación:
 Comparar los productos estandarizados contra
 el catálogo oficial, si está disponible.
 
+## Resultados del control de calidad — Bloque 4
+
+Herramienta: LibreOffice Calc
+Archivo: ventas_control_calidad_bloque_04.xlsx
+
+### Indicadores
+
+- Total de registros analizados: 10
+- Registros que requieren revisión: 5
+- Registros sin incidencias detectadas: 5
+- Porcentaje de registros que requieren revisión: 50 %
+
+### Validaciones implementadas
+
+- Detección de clientes faltantes.
+- Detección de unidades faltantes.
+- Identificación de IDs repetidos.
+- Identificación de fechas no reconocidas.
+- Estandarización de nombres de productos.
+- Generación de fechas estandarizadas.
+
+### Hallazgos
+
+- Venta 1005: cliente faltante.
+- Venta 1007: unidades faltantes.
+- Venta 1008: identificador repetido en dos registros.
+- Venta 1009: fecha no reconocida.
+
+### Decisiones
+
+- Se conserva intacta la base original.
+- No se eliminan registros sin validación.
+- No se inventan valores para completar campos vacíos.
+- Los registros señalados permanecen pendientes de revisión.
+- La estandarización se realiza en una copia de trabajo.
+
+### Pendiente
+
+Reproducir y comprobar las transformaciones en Power Query,
+incluyendo la actualización de datos.
+
