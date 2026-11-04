@@ -1,0 +1,6 @@
+id_credito,empresa,monto,dias_atraso
+1001,Alfa,180000.0,0
+1002,Beta,250000.0,15
+1003,Gamma,,45
+1004,Delta,450000.0,30
+1005,Epsilon,200000.0,-5
