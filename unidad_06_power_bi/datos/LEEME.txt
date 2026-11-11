@@ -1,0 +1,8 @@
+UNIDAD 6 - PROYECTO CARTERA PYME (DATOS SIMULADOS)
+
+clientes.csv: 500 clientes, clave id_cliente unica.
+creditos.csv: 1000 creditos, id_credito unico, id_cliente clave foranea.
+pagos.csv: 5011 pagos, id_pago unico, id_credito clave foranea.
+Relaciones: clientes[id_cliente] 1:* creditos[id_cliente]; creditos[id_credito] 1:* pagos[id_credito].
+Corte de cartera: 2026-10-31. Los pagos son movimientos sinteticos para analizar flujos; no se deben restar del saldo_actual, que es una foto de cartera al corte.
+Los datos son inventados, no corresponden a personas o empresas reales. No hay inconsistencias intencionales en esta version inicial; las agregaremos en ejercicios de calidad de datos.
