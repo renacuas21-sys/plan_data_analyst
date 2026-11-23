@@ -1,0 +1,17 @@
+producto_id,producto,categoria,unidades,ingresos,utilidad_referencial
+P015,Producto 015,Accesorios,67,145725.0,61640.0
+P013,Producto 013,Oficina,72,137160.0,58032.0
+P016,Producto 016,Tecnología,49,113190.0,47873.0
+P012,Producto 012,Tecnología,49,86730.0,36701.0
+P014,Producto 014,Hogar,41,83640.0,35383.0
+P009,Producto 009,Oficina,49,66885.0,28322.0
+P005,Producto 005,Oficina,79,65175.0,27650.0
+P010,Producto 010,Hogar,36,54000.0,22860.0
+P011,Producto 011,Accesorios,32,52320.0,22144.0
+P007,Producto 007,Accesorios,45,49275.0,20880.0
+P004,Producto 004,Tecnología,68,46920.0,19924.0
+P008,Producto 008,Tecnología,35,43050.0,18235.0
+P006,Producto 006,Hogar,42,40320.0,17094.0
+P003,Producto 003,Accesorios,57,31635.0,13452.0
+P002,Producto 002,Hogar,38,15960.0,6802.0
+P001,Producto 001,Oficina,23,6555.0,2806.0

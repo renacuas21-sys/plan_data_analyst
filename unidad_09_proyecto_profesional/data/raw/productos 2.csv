@@ -1,0 +1,17 @@
+﻿producto_id,producto,categoria,precio_lista,costo_unitario
+P001,Producto 001,Oficina,285,163
+P002,Producto 002,Hogar,420,241
+P003,Producto 003,Accesorios,555,319
+P004,Producto 004,Tecnología,690,397
+P005,Producto 005,Oficina,825,475
+P006,Producto 006,Hogar,960,553
+P007,Producto 007,Accesorios,1095,631
+P008,Producto 008,Tecnología,1230,709
+P009,Producto 009,Oficina,1365,787
+P010,Producto 010,Hogar,1500,865
+P011,Producto 011,Accesorios,1635,943
+P012,Producto 012,Tecnología,1770,1021
+P013,Producto 013,Oficina,1905,1099
+P014,Producto 014,Hogar,2040,1177
+P015,Producto 015,Accesorios,2175,1255
+P016,Producto 016,Tecnología,2310,1333

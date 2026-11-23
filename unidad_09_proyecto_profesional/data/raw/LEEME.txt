@@ -1,0 +1,7 @@
+Comercializadora Horizonte — CASO RECONSTRUIDO (NO ES EL ZIP ORIGINAL)
+Unidad 9: prueba de autonomía. Datos 100% ficticios generados nuevamente.
+Archivos: clientes.csv, productos.csv, ventas_encabezado.csv, ventas_detalle.csv.
+Objetivo: diagnóstico inicial de estructura, relaciones, integridad, duplicados, nulos, estatus y confiabilidad financiera.
+No corrijas ni elimines registros antes de documentar incidencias.
+Los errores intencionales son parte del ejercicio; no se incluye solucionario.
+Atención: este caso puede diferir del material que se compartió anteriormente.
