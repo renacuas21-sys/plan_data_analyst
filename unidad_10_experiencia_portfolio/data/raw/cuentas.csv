@@ -1,0 +1,11 @@
+cuenta_id,cuenta,tipo
+I01,Ventas,Ingreso
+I02,Servicios,Ingreso
+K01,Materiales,Costo
+K02,Mano de obra directa,Costo
+K03,Transporte directo,Costo
+G01,Nomina administrativa,Gasto
+G02,Marketing,Gasto
+G03,Renta,Gasto
+G04,Tecnologia,Gasto
+G05,Otros gastos operativos,Gasto
