@@ -1,3 +1,5 @@
 .DS_Store
 ~$*.xlsx
 .venv/
+# Documentos profesionales privados
+unidad_11_preparacion_profesional/cv/
