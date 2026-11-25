@@ -1,72 +1,80 @@
-# Plan para Data Analyst
+# Financial Analytics & Business Intelligence Portfolio
 
-## Objetivo del proyecto
+### Rene Leon Delgadillo
 
-Desarrollar y perfeccionar las habilidades técnicas, analíticas y de pensamiento crítico necesarias para desempeñarme profesionalmente como Data Analyst.
+Corporate Finance | FP&A | Financial Analysis | Data Analytics | Business Intelligence
 
-Este proyecto forma parte de un plan de formación estructurado, orientado a comprender, organizar, procesar e interpretar datos para responder preguntas de negocio y apoyar la toma de decisiones.
+## Professional Profile
 
-## Unidad 1 — Excel y fundamentos del análisis de datos
+Finance and business management professional with experience in banking, financial planning, profitability analysis, commercial strategy and executive decision-making.
 
-El objetivo de esta unidad es fortalecer la comprensión y el manejo de datos mediante el uso de Excel, fórmulas, validaciones y herramientas de análisis.
+Master's degree in Corporate Finance, combining financial management experience with analytical tools to transform data into actionable business insights.
 
-Se busca transformar datos de operaciones comerciales en información confiable, identificar problemas de calidad y generar conclusiones útiles para el negocio.
+## Featured Projects
 
-## Estructura del proyecto
+### 01. Grupo Nova — Financial Planning & Analysis
 
-### Unidad 0 — Diagnóstico inicial
+Financial performance analysis, budgeting, forecasting, EBITDA, variance analysis and scenario modeling.
 
-Contiene las actividades utilizadas para identificar mis conocimientos iniciales, fortalezas y áreas de mejora antes de comenzar el plan de formación.
+**Key analytical results:**
 
-### Unidad 1 — Excel y fundamentos analíticos
+- FY2025 Revenue: MXN 50.85 million.
+- FY2025 EBITDA: MXN 1.24 million.
+- EBITDA Margin: 2.43%.
+- FY2026 Base Scenario EBITDA: MXN 4.58 million.
 
-Contiene los archivos del laboratorio de ventas y la documentación desarrollada durante el análisis:
+![Grupo Nova Dashboard](unidad_10_experiencia_portfolio/images/nova_dashboard.png)
 
-- **laboratorio_ventas_data_analyst.xlsx:** conjunto de datos de práctica para analizar operaciones comerciales.
-- **diccionario_datos.md:** descripción de los campos, tipos de datos y reglas de validación.
-- **preguntas_negocio.md:** cinco preguntas comerciales que orientan el análisis.
-- **registro_calidad.md:** incidencias detectadas, impacto y acciones recomendadas.
-- **hallazgos_analisis.md:** resultados, observaciones y conclusiones obtenidas durante el análisis.
+[Explore Grupo Nova Project](unidad_10_experiencia_portfolio/)
 
-## Herramientas utilizadas
+### 02. Comercializadora Horizonte — Business Analytics
 
-- **Microsoft Excel:** organización de datos, fórmulas, cálculos comerciales y análisis de información.
-- **Git:** control de versiones y seguimiento de cambios.
-- **GitHub:** respaldo y sincronización del proyecto entre computadoras.
-- **Visual Studio Code:** edición y documentación de archivos.
-- **Markdown:** elaboración del diccionario de datos, preguntas de negocio, registro de calidad y hallazgos.
+End-to-end business analysis covering data quality, SQL transformations, financial indicators, commercial performance and executive reporting.
 
-## Datos utilizados
+**Key analytical results:**
 
-Los archivos del laboratorio contienen datos simulados con fines educativos. No representan operaciones financieras reales de una empresa.
+- Revenue analyzed: MXN 1,038,540.
+- Completed sales: 100.
+- Units sold: 782.
+- Reference-based profit margin: 42.35%.
 
-## Estado del proyecto
+![Horizonte Dashboard](unidad_09_proyecto_profesional/images/horizonte_dashboard.png)
 
-- **Unidad 0 - Diagnóstico inicial:** completada; pendiente de revisión por Francisco.
-- **Unidad 1 - Bloque 1:** revisión documental completada; cierre interno aprobado el 12 de octubre de 2026. Incidencias de calidad pendientes de validación.
-- **Unidad 1 - Bloque 2:** evaluación práctica de Excel aprobada (4 de 4 retos). Pendiente de revisión por Francisco.
-- **Unidad 1 - Bloque 3:** tablas dinámicas, gráficos y evaluación práctica completados (4 de 4 retos). Pendiente de revisión por Francisco.
-- **Unidad 1 - Bloque 4:** en preparación.
+[Explore Horizonte Project](unidad_09_proyecto_profesional/)
 
-### Unidad 2 — SQL, calidad de datos y Power Query
+## Technical Skills
 
-**Estado:** Completada — 4 de 4 bloques.
-**Fecha de cierre:** 22 de octubre de 2026.
+| Area | Tools and Competencies |
+| --- | --- |
+| Corporate Finance | FP&A, Budgeting, Forecasting, P&L, EBITDA |
+| Data Analysis | SQL, PostgreSQL, Python, Pandas |
+| Business Intelligence | Power BI, DAX, Power Query |
+| Financial Modeling | Microsoft Excel, Scenario Analysis |
+| Data Management | Data Cleaning, ETL, Data Validation |
+| Business Management | KPIs, Strategy, Profitability Analysis |
+| Development | Git, GitHub, Visual Studio Code |
 
-- Bloque 1: Consultas SQL y fundamentos de PostgreSQL.
-- Bloque 2: Consultas y evaluación práctica de SQL.
-- Bloque 3: JOIN, cardinalidad y subconsultas.
-- Bloque 4: Validación de calidad, Power Query y actualización de datos.
+## Professional Approach
 
-**Herramientas utilizadas:**
-PostgreSQL, pgAdmin 4, SQLBolt, Excel y Power Query.
+- Connect financial performance with business strategy.
+- Validate data before drawing conclusions.
+- Translate analytical findings into business recommendations.
+- Develop transparent and reproducible analytical workflows.
+- Communicate results to technical and executive audiences.
 
-**Aprendizajes principales:**
-- Consultar y relacionar información mediante SQL.
-- Identificar inconsistencias y valores faltantes.
-- Aplicar transformaciones reproducibles en Power Query.
-- Conservar los datos originales y documentar las correcciones.
+## Additional Documentation
 
-**Seguimiento:** Pendiente de revisión con Francisco Delgadillo.
+- [Detailed Professional Portfolio](PORTFOLIO.md)
+- [Original Academic Documentation](README_ACADEMICO.md)
 
-**Próximo objetivo:** Unidad 3 — Bloque 1.
+## Professional Contact
+
+[LinkedIn Profile](https://www.linkedin.com/in/rene-leon-delgadillo-12a01a302/)
+
+Guadalajara, Jalisco, Mexico.
+
+## Data Disclaimer
+
+All featured projects use simulated business data for educational and portfolio purposes. Financial results remain subject to final reconciliation. Reference-based profitability estimates do not represent audited financial results.
+
+Last updated: November 2026.
